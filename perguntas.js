@@ -18,5 +18,5 @@ criaCartao(
 criaCartao(
     'Lingua inglesa',
     'Qual é a sua matria favorita?',
-    'RoboticaS'
+    'Robotica'
 )
